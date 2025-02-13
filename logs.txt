@@ -1,0 +1,8 @@
+[2025-02-13 10:15:32] INFO  User login successful - user: admin
+[2025-02-13 10:16:05] ERROR Database connection failed - timeout
+[2025-02-13 10:17:21] WARN  High memory usage detected - process: nginx
+[2025-02-13 10:18:45] INFO  File uploaded - filename: report.pdf
+[2025-02-13 10:19:02] ERROR Disk space low - available: 5%
+[2025-02-13 10:20:11] INFO  User logout - user: admin
+[2025-02-13 10:21:30] WARN  CPU usage high - process: java
+[2025-02-13 10:22:15] INFO  New connection from IP: 192.168.1.10
